@@ -78,7 +78,7 @@
     /* Example color */
 }
 
-/* ... other styles */
+
 
 .small-text {
     font-size: 14px;
@@ -127,7 +127,7 @@
     /* Allow description to take up available space */
 }
 
-/* ... other styles */
+
 
 .small-text {
     font-size: 14px;
@@ -176,7 +176,7 @@
     /* Allow description to take up available space */
 }
 
-/* ... other styles */
+
 .small-text {
     font-size: 14px;
     color: #777;
@@ -214,7 +214,7 @@
     color: #555;
 }
 
-/* ... other styles */
+
 .small-text {
     font-size: 14px;
     color: #777;
@@ -262,7 +262,7 @@
     /* Allow description to take up available space */
 }
 
-/* ... other styles */
+
 
 .section-title {
     font-size: 2rem;
@@ -292,7 +292,7 @@
     /* Maintain aspect ratio */
 }
 
-/* ... other styles */
+
 
 ul {
     list-style: none;
@@ -301,55 +301,59 @@ ul {
 .small-text {
     font-size: 14px;
     color: #777;
-  }
-  
-  .section-title {
+}
+
+.section-title {
     font-size: 2rem;
     font-weight: bold;
     margin-bottom: 1rem;
-  }
-  
-  .main-text {
+}
+
+.main-text {
     font-size: 1rem;
     color: #555;
     margin-bottom: 2rem;
-  }
-  
-  .contact-details {
+}
+
+.contact-details {
     /* Style the container for contact items */
-  }
-  
-  .contact-item {
-    display: flex; /* Align icon and text horizontally */
-    align-items: flex-start; /* Align items to the top */
+}
+
+.contact-item {
+    display: flex;
+    /* Align icon and text horizontally */
+    align-items: flex-start;
+    /* Align items to the top */
     margin-bottom: 20px;
-  }
-  
-  .contact-item i {
+}
+
+.contact-item i {
     margin-right: 10px;
     /* Style the icons */
-  }
-  
-  .detail-title {
+}
+
+.detail-title {
     font-weight: bold;
-  }
-  
-  .contact-text {
+}
+
+.contact-text {
     /* Style the text content for each contact detail */
-  }
-  
-  .contact-text a {
-    color: #007bff; /* Example link color */
+}
+
+.contact-text a {
+    color: #007bff;
+    /* Example link color */
     text-decoration: none;
-  }
-  
-  .image-content {
-    text-align: center; /* Center the image within its container */
-  }
-  
-  .image-content img {
-    max-width: 100%; /* Ensure image doesn't exceed container width */
-    height: auto; /* Maintain aspect ratio */
-  }
-  
-  /* ... other styles */
+}
+
+.image-content {
+    text-align: center;
+    /* Center the image within its container */
+}
+
+.image-content img {
+    max-width: 100%;
+    /* Ensure image doesn't exceed container width */
+    height: auto;
+    /* Maintain aspect ratio */
+}
