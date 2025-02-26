@@ -10,7 +10,6 @@
     text-align: center;
     border-radius: 8px;
     height: 100%;
-    /* Ensure cards are equal height */
     display: flex;
     flex-direction: column;
 }
@@ -18,7 +17,6 @@
 .image-placeholder {
     font-size: 3rem;
     color: #007bff;
-    /* Example icon color */
     margin-bottom: 1rem;
 }
 
@@ -31,7 +29,6 @@
     font-size: 14px;
     color: #555;
     flex-grow: 1;
-    /* Allow description to take up available space */
 }
 
 .card-link {
@@ -39,7 +36,6 @@
     text-decoration: none;
     margin-top: 1rem;
     display: inline-block;
-    /* Make the link behave like a block element */
 }
 
 .card-link:hover {
@@ -49,7 +45,6 @@
 .small-text {
     font-size: 14px;
     color: #777;
-    /* Example color */
 }
 
 .large-title {
@@ -75,7 +70,6 @@
 .feature-item i {
     margin-right: 10px;
     color: #007bff;
-    /* Example color */
 }
 
 
@@ -103,7 +97,6 @@
     text-align: center;
     border-radius: 8px;
     min-height: 250px;
-    /* Example min-height to make cards similar height */
     display: flex;
     flex-direction: column;
 }
@@ -111,7 +104,6 @@
 .icon-placeholder {
     font-size: 3rem;
     color: #007bff;
-    /* Example icon color */
     margin-bottom: 1rem;
 }
 
@@ -124,7 +116,6 @@
     font-size: 14px;
     color: #555;
     flex-grow: 1;
-    /* Allow description to take up available space */
 }
 
 
@@ -152,7 +143,6 @@
     text-align: center;
     border-radius: 8px;
     min-height: 250px;
-    /* Example min-height to make cards similar height */
     display: flex;
     flex-direction: column;
 }
@@ -160,7 +150,6 @@
 .icon-placeholder {
     font-size: 3rem;
     color: #007bff;
-    /* Example icon color */
     margin-bottom: 1rem;
 }
 
@@ -173,7 +162,6 @@
     font-size: 14px;
     color: #555;
     flex-grow: 1;
-    /* Allow description to take up available space */
 }
 
 
@@ -195,13 +183,11 @@
 .feature-columns {
     display: flex;
     justify-content: space-between;
-    /* Distribute columns evenly */
     margin-top: 20px;
 }
 
 .feature-column {
     flex: 1;
-    /* Each column takes equal width */
 }
 
 .feature-title {
@@ -259,7 +245,6 @@
     font-size: 14px;
     color: #555;
     flex-grow: 1;
-    /* Allow description to take up available space */
 }
 
 
@@ -276,20 +261,13 @@
     margin-bottom: 2rem;
 }
 
-.button-group .btn {
-    /* You can add specific button styles here if needed */
-}
-
 .image-content {
     text-align: center;
-    /* Center the image within its container */
 }
 
 .image-content img {
     max-width: 100%;
-    /* Ensure image doesn't exceed container width */
     height: auto;
-    /* Maintain aspect ratio */
 }
 
 
@@ -315,45 +293,31 @@ ul {
     margin-bottom: 2rem;
 }
 
-.contact-details {
-    /* Style the container for contact items */
-}
 
 .contact-item {
     display: flex;
-    /* Align icon and text horizontally */
     align-items: flex-start;
-    /* Align items to the top */
     margin-bottom: 20px;
 }
 
 .contact-item i {
     margin-right: 10px;
-    /* Style the icons */
 }
 
 .detail-title {
     font-weight: bold;
 }
 
-.contact-text {
-    /* Style the text content for each contact detail */
-}
-
 .contact-text a {
     color: #007bff;
-    /* Example link color */
     text-decoration: none;
 }
 
 .image-content {
     text-align: center;
-    /* Center the image within its container */
 }
 
 .image-content img {
     max-width: 100%;
-    /* Ensure image doesn't exceed container width */
     height: auto;
-    /* Maintain aspect ratio */
 }
