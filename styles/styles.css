@@ -1,0 +1,355 @@
+.section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.safety-card {
+    border: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    height: 100%;
+    /* Ensure cards are equal height */
+    display: flex;
+    flex-direction: column;
+}
+
+.image-placeholder {
+    font-size: 3rem;
+    color: #007bff;
+    /* Example icon color */
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-description {
+    font-size: 14px;
+    color: #555;
+    flex-grow: 1;
+    /* Allow description to take up available space */
+}
+
+.card-link {
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: inline-block;
+    /* Make the link behave like a block element */
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+.small-text {
+    font-size: 14px;
+    color: #777;
+    /* Example color */
+}
+
+.large-title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.main-text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.feature-list {
+    margin-top: 20px;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.feature-item i {
+    margin-right: 10px;
+    color: #007bff;
+    /* Example color */
+}
+
+/* ... other styles */
+
+.small-text {
+    font-size: 14px;
+    color: #777;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.main-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
+.info-card {
+    border: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    min-height: 250px;
+    /* Example min-height to make cards similar height */
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-placeholder {
+    font-size: 3rem;
+    color: #007bff;
+    /* Example icon color */
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-description {
+    font-size: 14px;
+    color: #555;
+    flex-grow: 1;
+    /* Allow description to take up available space */
+}
+
+/* ... other styles */
+
+.small-text {
+    font-size: 14px;
+    color: #777;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.main-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
+.feature-card {
+    border: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    min-height: 250px;
+    /* Example min-height to make cards similar height */
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-placeholder {
+    font-size: 3rem;
+    color: #007bff;
+    /* Example icon color */
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-description {
+    font-size: 14px;
+    color: #555;
+    flex-grow: 1;
+    /* Allow description to take up available space */
+}
+
+/* ... other styles */
+.small-text {
+    font-size: 14px;
+    color: #777;
+}
+
+.large-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.main-text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.feature-columns {
+    display: flex;
+    justify-content: space-between;
+    /* Distribute columns evenly */
+    margin-top: 20px;
+}
+
+.feature-column {
+    flex: 1;
+    /* Each column takes equal width */
+}
+
+.feature-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.feature-description {
+    font-size: 14px;
+    color: #555;
+}
+
+/* ... other styles */
+.small-text {
+    font-size: 14px;
+    color: #777;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.main-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
+.activity-card {
+    border: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    min-height: 280px;
+    /* Adjust as needed */
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-placeholder {
+    font-size: 3rem;
+    color: #007bff;
+    /* Example icon color */
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-description {
+    font-size: 14px;
+    color: #555;
+    flex-grow: 1;
+    /* Allow description to take up available space */
+}
+
+/* ... other styles */
+
+.section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.main-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
+.button-group .btn {
+    /* You can add specific button styles here if needed */
+}
+
+.image-content {
+    text-align: center;
+    /* Center the image within its container */
+}
+
+.image-content img {
+    max-width: 100%;
+    /* Ensure image doesn't exceed container width */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+/* ... other styles */
+
+ul {
+    list-style: none;
+}
+
+.small-text {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .main-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-details {
+    /* Style the container for contact items */
+  }
+  
+  .contact-item {
+    display: flex; /* Align icon and text horizontally */
+    align-items: flex-start; /* Align items to the top */
+    margin-bottom: 20px;
+  }
+  
+  .contact-item i {
+    margin-right: 10px;
+    /* Style the icons */
+  }
+  
+  .detail-title {
+    font-weight: bold;
+  }
+  
+  .contact-text {
+    /* Style the text content for each contact detail */
+  }
+  
+  .contact-text a {
+    color: #007bff; /* Example link color */
+    text-decoration: none;
+  }
+  
+  .image-content {
+    text-align: center; /* Center the image within its container */
+  }
+  
+  .image-content img {
+    max-width: 100%; /* Ensure image doesn't exceed container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  /* ... other styles */
